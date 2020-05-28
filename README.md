@@ -1,3 +1,3 @@
 # sourdough
 
-https://romanaspeekbloor.github.io/sourdough/recipes.html
+https://romanaspeekbloor.github.io/sourdough
